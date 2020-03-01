@@ -1,5 +1,4 @@
-Integrantes:
-ANDERSON QUARESMA, THIAGO MACIEL, TIAGO MOURA.
+## Integrantes: ANDERSON QUARESMA, THIAGO MACIEL, TIAGO MOURA.
 
 Repositório disponível para o curso de Pós Graduação de Análise e Engenharia de Dados do Cesar School.
 
